@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-
+//Let, the search element exists only once in the array
 int rr[]={5, 10, 15, 17, 20, 23, 25, 30, 47, 35, 13, 50};
 int n, i, pos=-1;
 
