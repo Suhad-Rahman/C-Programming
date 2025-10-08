@@ -20,6 +20,12 @@ This repository is organized into folders and files representing different stage
 - ⚙️ **Projects and Practice Problems**
 
 ---
+Skills-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ## 🚀 How to Use This Repository
 
