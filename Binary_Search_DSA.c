@@ -14,7 +14,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
     
-    //Binary Search
+    //Binary Search 
     
     printf("Please enter the number to search: ");
     int target;
